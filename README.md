@@ -1,26 +1,13 @@
-<h1 align="center">Hi 👋, I'm Noor Ul Haq</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noorkhan2233&label=Profile%20views&color=0e75b6&style=flat" alt="noorkhan2233" /> </p>
+### Hi, I'm Noor Ul Haq
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noorkhan2233" alt="noorkhan2233" /></a> </p>
+**Full-Stack Developer | Backend & Automation Engineer**
 
-- 🔭 I’m currently working on **WhatsApp Chat Analyzer**
+I build database-driven web applications, backend systems, and business automation workflows.
 
-- 👯 I’m looking to collaborate on **Data Analyst Projects**
+My experience includes PostgreSQL and Supabase backend development, React and Next.js applications, AI agents, CRM integrations, and automation using n8n, Make.com, and Zapier.
 
-- 📫 How to reach me **noorkhanotlo234@gmail.com**
+I've worked on 15+ international client projects, including warehouse management systems, CRMs, AI voice agents, and accounting automation.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/noor-ul-haq1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noor-ul-haq1" height="30" width="40" /></a>
-</p>
+**Portfolio:** https://my-portfolio-gamma-one-yn5udvnb19.vercel.app/
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noorkhan2233&show_icons=true&locale=en&layout=compact" alt="noorkhan2233" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noorkhan2233&show_icons=true&locale=en" alt="noorkhan2233" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noorkhan2233&" alt="noorkhan2233" /></p>
-
-
+**LinkedIn:** https://www.linkedin.com/in/noor-ul-haq1
